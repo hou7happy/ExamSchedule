@@ -29,8 +29,8 @@ A web application for organizing and managing examination surveillance schedules
 1. Clone the repository
 
    ```
-   git clone https://github.com/hou7happy/examschedule.git
-   cd examschedule
+   git clone https://github.com/hou7happy/ExamSchedule.git
+   cd ExamSchedule
    ```
 
 2. Install NPM packages
